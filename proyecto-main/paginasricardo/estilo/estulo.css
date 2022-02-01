@@ -1,0 +1,107 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:	border-box: ;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	font-size: 12px;
+	text-decoration: none;
+	color: #000;
+}
+h1{
+	font-size: 3.5em;
+	color: white;
+	margin-top: 15px;
+	text-align: center;
+	margin-left: 520px;
+}
+body{
+	background-color: #FF7979;
+}
+
+
+header{
+	background: #7E1313;
+}
+
+header img{
+	height: 70px;
+	width: 70px;
+	display: inline-block;
+	border-radius: 50%;
+	margin-left: 50px;
+	margin-top: 5px;
+}
+
+header nav{
+	height: 80px;
+	width: 100%;
+	margin: auto;
+}
+
+header nav li{
+	color: white;
+	list-style: none;
+	height: 40px;
+	float: left;
+	margin-right: 10px;
+}
+
+.contenedor{
+	width: 1000px;
+	margin: auto;
+	margin-top: 80px;
+}
+
+.banner{
+	background: url(../rojito.jpg);
+	width: 1000px;
+	height: 400px;
+	margin-top: 10px;
+	padding-top: 100px;
+}
+
+.info_usuario{
+	width: 800px;
+	margin: auto;
+	text-align: center;
+}
+
+.Materia{
+	display: block;
+	font-size: 4em;
+	color: white;
+	text-shadow: -1px -1px 14px rgba(255, 255, 255, 1);
+}
+
+.Maestro{
+	display: block;
+	font-size: 3em;
+	color: white;
+	text-shadow: -1px -1px 14px rgba(255, 255, 255, 1);	
+}
+
+.Alumno{
+	display: block;
+	font-size: 3em;
+	color: white;
+	text-shadow: -1px -1px 14px rgba(255, 255, 255, 1);	
+}
+
+.Grupo{
+	display: block;
+	font-size: 3em;
+	color: white;
+	text-shadow: -1px -1px 14px rgba(255, 255, 255, 1);	
+}
+
+.bio{
+	display: block;
+	font-size: 3em;
+	color: black;
+	text-shadow: -1px -1px 14px rgba(0, 0, 0, 1);		
+}
+
+.piopio{
+	font-size: 2em;
+}
